@@ -1,9 +1,11 @@
 {
-  "owner": {
+  "owner": 
+  {
     "username": "Harsh-D11",
     "email": "bennyharsh@gmail.com"
   },
-  "records": {
-    "TXT": "vc-domain-verify=www.shadow-monarch.is-a.dev,ee4628b3d5881e12a084"
+  "records": 
+  {
+    "TXT": "vc-domain-verify=www.shadow-monarch.is-a.dev,1b4228a17f2c4c722878"
   }
 }
